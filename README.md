@@ -1,5 +1,4 @@
 ### Bonjour 🌴
-</br>
 
 + 🖥 &nbsp;&nbsp;I'm a **Full-Stack Web Developer**
 + ⏳ &nbsp;&nbsp;**past &nbsp;-&nbsp;** I was a controversial gamer.
